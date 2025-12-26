@@ -61,4 +61,4 @@ Firmware and microcontroller code are in `Firmware/main.py`.
 - 3D models for case: `CAD/` folder
 
 ## License
-This project is open-source.
+This project is open-source. [Licnse](LICENSE)

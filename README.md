@@ -12,15 +12,15 @@ Controla is a compact, tactile controller that brings your most-used shortcuts a
 ## Screenshots
 
 - **Schematic:**
-    ![Schematic](images/AdobeExpressPhotos_193deb7dd69646989ff731884ae77283_CopyEdited.png)
+    ![Schematicc](images/AdobeExpressPhotos_193deb7dd69646989ff731884ae77283_CopyEdited.png)
 
 
 - **PCB:**
-	![PCB](images/AdobeExpressPhotos_3ff78aa63e2c438c9d79232ffc736364_CopyEdited.png)
+	![PCBB](images/AdobeExpressPhotos_3ff78aa63e2c438c9d79232ffc736364_CopyEdited.png)
 
 - **CAD:**
     ![TOP](images/AdobeExpressPhotos_28f2e4561a7d46eaba59ac2a4ec328c7_CopyEdited.png)
-	![BOTTOM](images/AdobeExpressPhotos_a923c148486f4c9384a7a06fdc15878e_CopyEdited.png)
+	![BOTTOM](images/AdobeExpressPhotos_bcf551e7a5ed4b88a551d70bc72cacd0_CopyEdited.png)
 
 ## Bill of Materials (BOM)
 
@@ -61,4 +61,4 @@ Firmware and microcontroller code are in `Firmware/main.py`.
 - 3D models for case: `CAD/` folder
 
 ## License
-This project is open-source. [Licnse](LICENSE)
+This project is open-source.
